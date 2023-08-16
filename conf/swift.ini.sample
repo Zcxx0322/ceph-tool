@@ -1,0 +1,5 @@
+[main]
+swift = /usr/local/python3/bin/swift
+base_url = http://localhost/auth/1.0
+uid = rgw_example:swift
+secret_key = foo
